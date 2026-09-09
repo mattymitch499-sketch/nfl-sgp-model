@@ -1,0 +1,9 @@
+date,market,subject,point,n_books,consensus_devigged,min_devigged,max_devigged,spread,books
+2026-08-23,pitcher_strikeouts,Bailey Ober,3.5,6,0.49845233182005777,0.4958445875753168,0.5203045685279188,0.024459980952602045,betmgm|betonlineag|betrivers|bovada|draftkings|fanduel
+2026-08-23,pitcher_strikeouts,Blake Snell,8.5,6,0.4868683923625984,0.46281519310564956,0.5,0.03718480689435044,betmgm|betonlineag|betrivers|bovada|draftkings|fanduel
+2026-08-23,pitcher_strikeouts,Bryce Miller,4.5,1,0.5789713245334547,0.5789713245334547,0.5789713245334547,0.0,draftkings
+2026-08-23,pitcher_strikeouts,Bryce Miller,5.5,5,0.4063816977724262,0.4053409632808775,0.4186744608578877,0.01333349757701019,betmgm|betonlineag|betrivers|bovada|fanduel
+2026-08-23,pitcher_strikeouts,Lake Bachar,2.5,2,0.39550581019847453,0.39325842696629215,0.39775319343065696,0.004494766464364808,betonlineag|draftkings
+2026-08-23,pitcher_strikeouts,Shota Imanaga,5.5,6,0.5050607287449393,0.4896023956080519,0.5203045685279188,0.030702172919866932,betmgm|betonlineag|betrivers|bovada|draftkings|fanduel
+2026-08-23,pitcher_strikeouts,Walker Buehler,3.5,6,0.5614029600236967,0.5427774333539988,0.5723390905188072,0.029561657164808408,betmgm|betonlineag|betrivers|bovada|draftkings|fanduel
+2026-08-23,pitcher_strikeouts,Walker Buehler,4.5,1,0.4248366013071895,0.4248366013071895,0.4248366013071895,0.0,betmgm

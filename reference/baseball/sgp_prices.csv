@@ -1,0 +1,33 @@
+date,book,region,game,family,leg1_desc,leg1_price,leg1_other_price,leg2_desc,leg2_price,leg2_other_price,sgp_price,minutes_to_first_pitch,lineups_posted,notes
+2026-08-17,draftkings,us,ATH@KC,indep,Wacha over 4.5 K,-106,,Barnett over 3.5 K,123,,310,450,No,
+2026-08-17,draftkings,us,MIA@PHI,k_x_teamk,Sanchez over 6.5 K,-145,,Phillies Strikeouts Thrown over 9.5 K,-115,,118,466,No,
+2026-08-17,draftkings,us,MIA@PHI,k_x_er,Sanchez over 6.5 K,-145,,Sanchez ER allowed under 1.5,106,,192,466,No,
+2026-08-17,draftkings,us,DET@PIT,k_x_er,Valdez over 5.5 K,116,,,,,,468,No,The er line is not available for this game
+2026-08-17,draftkings,us,ATH@KC,k_x_hitsallowed,Wacha over 4.5 K,-106,,Wacha hits allowed under 5.5,116,,252,450,No,
+2026-08-17,draftkings,us,ATH@KC,k_x_outs,Wacha over 4.5 K,-106,,Wacha outs over 18.5,113,,214,450,No,
+2026-08-17,draftkings,us,MIA@PHI,k_x_batterk,Sanchez over 6.5 K,-145,,Sanoja 1+ K,-131,,152,466,No,Caissie was not listed for this so I picked another batter
+2026-08-17,draftkings,us,DET@PIT,k_x_batterk,Valdez over 5.5 K,116,,Davis 1+ K,-175,,196,468,No,Cruz not listed so different batter
+2026-08-17,draftkings,us,COL@LAD,k_x_win,Snell over 6.5 K,-152,,Snell to record a win,-116,,,564,No,Cannot combine these legs in SGP
+2026-08-17,draftkings,us,COL@LAD,k_x_f5ml,Snell over 6.5 K,-152,,Dodgers F5 ml,-250,,100,564,No,
+2026-08-18,draftkings,us,PIT@DET,indep,Ashcraft over 5.5 K,-132,,Montero over 3.5 K,-119,,202,555,No,
+2026-08-18,draftkings,us,SEA@MIL,indep,Harrison over 5.5 K,-155,,Miller over 5.5 K,112,,228,615,No,
+2026-08-18,draftkings,us,BAL@NYY,k_x_teamk,Rodon over 4.5 K,-156,,Orioles team strikeouts over 9.5,-110,,128,463,No,
+2026-08-18,draftkings,us,COL@LAD,k_x_teamk,Lauer over 3.5 K,-125,,Rockies team strikeouts over 7.5,-155,,126,590,No,
+2026-08-18,draftkings,us,BAL@NYY,k_x_er,Rodon over 4.5 K,-156,,Rodon under 1.5 er,-121,,154,463,No,
+2026-08-18,draftkings,us,ATH@KC,k_x_er,Perkins over 3.5 K,-152,,Perkins under 2.5 er,-109,,166,520,No,Had to switch games because er line wasn’t available
+2026-08-18,draftkings,us,DET@PIT,k_x_batterk,Montero over 3.5 K,-119,,Cruz 1+ K,-275,,120,465,No,
+2026-08-18,draftkings,us,DET@PIT,k_x_batterk,Ashcraft over 5.5 K,-136,,Torkelson 1+ K,-620,,-115,465,No,
+2026-08-18,draftkings,us,COL@LAD,k_x_outs,Lauer over 3.5 K,-125,,Lauer over 16.5 outs,-138,,154,590,No,
+2026-08-18,draftkings,us,COL@LAD,k_x_f5ml,Lauer over 3.5 K,-125,,Dodgers F5 ml,-166,,156,590,No,
+2026-08-18,draftkings,us,SF@CLE,over-quadrant,Wisenhunt under 3.5 K,-111,,Guardians team hits over 8.5,-105,,,,No,Cannot combine these legs in SGP
+2026-08-19,draftkings,us,DET@PIT,indep,Jobe over 4.5 K,-109,-117,Skenes over 5.5 K,-162,127,222,105,Yes,
+2026-08-19,draftkings,us,SD@NYM,indep,King over 4.5 K,-155,121,Stock over 3.5 K,-153,120,158,140,No,
+2026-08-19,draftkings,us,MIA@PHI,k_x_teamk,Nola over 5.5 K,-119,-107,Phillies Ks thrown over 9.5,115,-160,168,430,No,Wanted to do fliff here but they have no other lines so cant really use it as a sandbox
+2026-08-19,draftkings,us,BAL@NYY,k_x_teamk,Warren over 5.5 K,124,-158,Yankees Ks thrown over 8.5,-135,-105,164,460,No,
+2026-08-19,draftkings,us,DET@PIT,k_x_batterk,Skenes over 5.5 K,-162,127,Torkelson 1+ K,-780,,140,100,Yes,Batter strikeout props only have one side
+2026-08-19,draftkings,us,MIA@PHI,k_x_batterk,Nola over 5.5 K,-119,-107,Caissie 1+ K,-430,,106,430,No,Batter strikeout props only have one side
+2026-08-19,draftkings,us,COL@LAD,k_x_er,Freeland over 3.5 K,-143,112,Freeland under 3.5 er,-108,-123,174,570,No,
+2026-08-19,draftkings,us,BAL@NYY,k_x_er,Bassit over 4.5 K,-121,-105,Bassit under 2.5 er,-130,-102,,460,No,wont let me combine these into sgp for some reason
+2026-08-19,draftkings,us,COL@LAD,k_x_outs,Sasaki over 4.5 K,-142,111,Sasaki over 16.5 outs,-107,-124,152,570,No,
+2026-08-19,draftkings,us,COL@LAD,k_x_f5ml,Sasaki over 4.5 K,-142,111,Dodgers F5 ml,-160,124,134,570,No,
+2026-08-19,draftkings,us,CHC@CHW,k_x_teamk,Holmes under 4.5 K,103,-131,Cubs Ks thrown under 8.5,-155,110,144,180,No,Had to switch to Cubs pitcher because lines were not out for white sox guy

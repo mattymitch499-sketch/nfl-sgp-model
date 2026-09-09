@@ -1,0 +1,18 @@
+[package]
+name = "nfl-sgp"
+version = "0.1.0"
+edition = "2024"
+description = "Same-game-parlay correlation study for NFL: measured φ from outcomes vs the φ a book's price allows for"
+
+# The same dependency set the baseball crate used, minus sha2 (artifact
+# fingerprinting, which this project has no model artifacts to fingerprint).
+# No new dependencies — in particular no `rand` (the bootstrap vendors its
+# own xorshift so intervals never change under an upgrade) and no timezone
+# crate (the slate rule needs none).
+[dependencies]
+chrono = { version = "0.4", features = ["serde"] }
+csv = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "json", "rustls-tls"] }
